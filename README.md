@@ -1,2 +1,3 @@
 # RabbitMQWatchTower
-Let the god of fire keep a close watch on that Rabbit 🐰🔥
+
+Let the Fire God keep a vigilant eye on the Rabbit and report its whereabouts 🐰🔥
